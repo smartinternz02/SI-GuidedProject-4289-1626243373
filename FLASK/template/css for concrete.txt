@@ -1,0 +1,25 @@
+{
+    margn:0;
+    padding:0;
+}
+header{
+    background-color:'C:\Users\HP\Desktop\website\concrete image.jpg';
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+}
+.nav-menu{
+    float:right;
+    list-style:none;
+    margin-top:30px
+}
+.nav-menu li{
+    display:inline-block;
+}
+.nav-menu li a{
+    color:cyan;
+    text-decoration:none;
+    padding:5px 20px;
+    font-family:"verdana","sans-serif";
+    font-size:20px;
+}
